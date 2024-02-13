@@ -1,0 +1,81 @@
+echo "# myfirstwebsite" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shahzaman-Mazumder-Dihan/myfirstwebsite.git
+git push -u origin main
+
+
+on old reposotory
+
+
+git remote add origin https://github.com/Shahzaman-Mazumder-Dihan/myfirstwebsite.git
+git branch -M main
+git push -u origin main
+
+
+
+
+push
+
+git add .
+git commit -m"commit no 40"
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rectangularbody{
+margin: 100px;
+height: 600px;
+
+border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+background-color: black;
+background-image: url(../resources/Banner\ Image.png);
+background-size: 100%;
+background-repeat: no-repeat;
+
+
+}
+.newtext{
+   
+text-align: center;
+color: #FFF;
+
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 30px;
+
+
+display: ;
+
+}
+
+
+
+https://github.com/Shahzaman-Mazumder-Dihan/assignment01
+body{
+    align-items: center;
+}
